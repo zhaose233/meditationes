@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  description: "乱七八糟的想法和沉思"
+  site-url: https://meditationes.zhaose.cyou
+  title: "Meditationes Zhaosei"
+  open-graph: true
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: 主页
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/zhaose233
+      - icon: rss
+        href: index.xml
+
+format:
+  html:
+    theme:
+      - lumen
+    css: styles.css
+    toc: true
+
+
+

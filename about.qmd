@@ -1,0 +1,21 @@
+---
+title: "关于"
+image: https://avatars.githubusercontent.com/u/70591705
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/zhaose233
+    - icon: telegram
+      text: Telegram
+      href: https://t.me/zhaose
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/@zhaose2
+
+---
+
+用来写作，或者说单纯记录自己所想的网站。受限于粗浅的认识与语言能力，
+没法用中文以外的语言来写。但也许有一天我会有足够高的英语甚至拉丁语水平，
+来重新描述这些东西呢，谁也说不准。
