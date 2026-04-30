@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "所有博文",
+    "section": "",
+    "text": "序\n\n\n\nmeditationes\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nZhaose\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/序.html",
     "href": "posts/序.html",
     "title": "序",
@@ -33,12 +40,5 @@
     "title": "关于",
     "section": "",
     "text": "用来写作，或者说单纯记录自己所想的网站。受限于粗浅的认识与语言能力， 没法用中文以外的语言来写。但也许有一天我会有足够高的英语甚至拉丁语水平， 来重新描述这些东西呢，谁也说不准。"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "所有博文",
-    "section": "",
-    "text": "序\n\n\n\nmeditationes\n\n\n\n\n\n\n\n\n\nApr 30, 2026\n\n\nZhaose\n\n\n\n\n\nNo matching items"
   }
 ]
